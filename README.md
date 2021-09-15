@@ -4,4 +4,4 @@ This repository contains the samples that demonstrate the functionalities of Win
 
 https://help.syncfusion.com/wpf/scheduler/getting-started
 
-https://www.syncfusion.com/wpf/scheduler
+https://www.syncfusion.com/wpf-controls/scheduler
