@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighlightNonWorkingHour", "HighlightNonWorkingHour\HighlightNonWorkingHour.csproj", "{3F02FE97-2BA1-4128-AC83-D84C2BE73AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F02FE97-2BA1-4128-AC83-D84C2BE73AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F02FE97-2BA1-4128-AC83-D84C2BE73AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F02FE97-2BA1-4128-AC83-D84C2BE73AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F02FE97-2BA1-4128-AC83-D84C2BE73AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58240F4E-4713-4F44-8F68-CB92CC4F4D58}
+	EndGlobalSection
+EndGlobal
